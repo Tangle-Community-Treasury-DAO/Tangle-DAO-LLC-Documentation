@@ -1,4 +1,4 @@
-## TANGLE TREASURY WEBSITE TERMS OF USE
+# TANGLE TREASURY WEBSITE TERMS OF USE
 
 Welcome to the website of Tangle DAO LLC, whom manages the website at www.TangleTreasury.org. The Tangle DAO is a non-profit LLC under the Republic of Marshall Islands laws. This website is provided to you subject to the following Terms and Conditions, as modified and updated occasionally. The Tangle DAO LLC and You are collectively called “the Parties”.  
 
