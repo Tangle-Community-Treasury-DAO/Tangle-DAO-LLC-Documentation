@@ -1,4 +1,4 @@
-## LIQUIDATION PROCESS FOR TANLGE DAO LLC
+# LIQUIDATION PROCESS FOR TANLGE DAO LLC
 
 The below process outlines how the Tangle DAO LLC Committee is to liquidate SMR or any other token assets it may hold. This process shall be followed until it, or a revised process, can officially be integrated and confirmed by the community within the [Exhibit C- V1.md (The Shimmer Community Grant Committee)](https://hackmd.io/MBh_1dR4SoeCMKvMYOw3Jg) Shimmer treasury committee framework. 
 
