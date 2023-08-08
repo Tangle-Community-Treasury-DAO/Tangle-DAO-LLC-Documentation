@@ -22,25 +22,25 @@ In this Agreement:
 
 **“Agreement”** means this grant agreement.  
 
-**“Applicable Laws”** means the law of the Republic of the Marshall Islands and any other law which is applicable to this Agreement whether directly or through reference or renvoi on the basis of any private international law applicable herein.  
+**“Applicable Laws”** means the law of the Republic of the Marshall Islands and any other law which is applicable to this Agreement, whether directly or through reference or renvoi on the basis of any private international law applicable herein.  
 
-**“Confidential Information”** means all information which has either been reasonably designated as confidential by either Party in writing or which ought to be considered as confidential (however it is conveyed or on whichever medium it is stored) including information which relates to the business, affairs, properties, assets, trading practices, services, developments, trade secrets, intellectual property rights, know-how, personnel, customers and suppliers of either Party, all personal data and sensitive personal data within the meaning of the Regulation EU 2016/679 and other privacy legislation of other jurisdictions. However, Confidential information does not include information which are public or have become public or were already known by the receiving Party or have been communicated to one of the Parties by a third party. The information contained in Exhibit A are Confidential Information.  
+**“Confidential Information”** means all information which has either been reasonably designated as confidential by either Party in writing or which ought to be considered as confidential (however it is conveyed or on whichever medium it is stored), including information which relates to the business, affairs, properties, assets, trading practices, services, developments, trade secrets, intellectual property rights, know-how, personnel, customers and suppliers of either Party, all personal data and sensitive personal data within the meaning of the Regulation EU 2016/679 and other privacy legislation of other jurisdictions. However, Confidential information does not include information which are public or have become public or were already known by the receiving Party or have been communicated to one of the Parties by a third party. The information contained in Exhibit A are Confidential Information.  
 
 **“Audit"** means an assessment of the Project by the Grantor or one or more persons appointed by the Grantor. The Audit will assess the Project on the basis of value for money, impact and delivery of outputs. Evidence will be collected through a review of paper documents and interviews with stakeholders;  
 
 **“Auditor”** means the person who performs an Audit. This will be one of the following Tangle DAO LLC Program Lead, Co-Lead, and/or Grant Manager. 
 
-**“Fiat”** means any of the available fiat currencies, including but not limited to US dollar, Euro, Great Britain Pound.  
+**“Fiat”** means any of the available fiat currencies, including but not limited to the US dollar, Euro, Great Britain Pound.  
 
 **“Final Report”** means the final report that the Grantee will have to submit to the Grantor as specified in Article 7.2. 
 
-**“Funding Period”** means the period during which the Grant is disbursed if the Grant is provided in separated instalments.  
+**“Funding Period”** means the period during which the Grant is disbursed if the Grant is provided in separate installments.  
 
 **“Grant”** means the sum or sums of Fiat or Tokens to be provided as a grant to the Grantee in accordance with this Agreement. The Grant is a pure form of donation which means that, in accordance with the terms of this Agreement, the Grantee will not have to give back to the Grantor the Grant as well as not to pay any form of interest on it.
 
 **“Prohibited Activity”** means: illegal or terrorist activities, money laundering or any activities which are subject to Sanctions or are, directly or indirectly, not in compliance with, prohibited under, or violate, the Applicable Laws; 
 
-**“Project”** means the project as described in Exhibit A and comprised of the outputs and activities set out in the Exhibit A and that will be funded, in full or in part, with the Grant.
+**“Project”** means the project as described in Exhibit A and comprised of the outputs and activities set out in Exhibit A, and that will be funded, in full or in part, with the Grant.
 
 **“Project Implementation”** means all the activity, specifically indicated in Exhibit A, which the Grantee undertakes in order to deliver the Project which is being funded under this Agreement.  
 
@@ -70,29 +70,41 @@ In this Agreement:
 
 **3.4** Where the Grantee intends to apply to a third party for other funding for the Project, it will notify the Grantor in advance of its intention to do so and, where such co-funding is permitted and obtained, it will provide the Grantor with details of the amount and purpose of that funding.   
 
-**3.5** The Grantor is a non-profit company incorporated under the laws of the Republic of Marshall Islands and the Grant is a donation which the Grantee will not have to give back or to remunerate with the payment of interests and, accordingly, the Grantee will not have to issue to the Grantor any invoice or any other document related to payments done in case of business activities. The Grantee here acknowledges that the fact that the Grant may not be considered to be, under the tax law of its own jurisdiction, a donation or a Grant is not a responsibility of the Grantor. In case of any tax investigation or investigation by public authorities in relation to the Grant, the Grantor will cooperate in good faith with the Grantee to demonstrate to the public authorities that the Grantor is a non-profit entity and that the Grant was a grant and not a loan or a payment for a service but, ultimately, the Grantee will only be responsible for the payment of sanctions or fines in relation to any decision issued by the tax authorities or the public authorities of its own jurisdiction. For the avoidance of doubt, the Grantor will not be responsible under any circumstances for compensating the Grantee for any sanctions or fines imposed by, and paid to, the tax agency or the public authorities of the country where the Grantee resides or, in any case, to which is subject.  
+**3.5** The Grantor is a non-profit company incorporated under the laws of the Republic of Marshall Islands, and the Grant is a donation which the Grantee will not have to give back or to remunerate with the payment of interests and, accordingly, the Grantee will not have to issue to the Grantor any invoice or any other document related to payments done in case of business activities. The Grantee here acknowledges that the fact that the Grant may not be considered to be, under the tax law of its own jurisdiction, a donation or a Grant is not a responsibility of the Grantor. In case of any tax investigation or investigation by public authorities in relation to the Grant, the Grantor will cooperate in good faith with the Grantee to demonstrate to the public authorities that the Grantor is a non-profit entity and that the Grant was a grant and not a loan or a payment for a service but, ultimately, the Grantee will only be responsible for the payment of sanctions or fines in relation to any decision issued by the tax authorities or the public authorities of its own jurisdiction. For the avoidance of doubt, the Grantor will not be responsible under any circumstances for compensating the Grantee for any sanctions or fines imposed by, and paid to, the tax agency or the public authorities of the country where the Grantee resides or, in any case, to which is subject.  
 
 ## 4. Grant Funding Period  
 
 **4.1** The grant Funding Period is from [Start Date] to [End Date].  
 
-**4.2** Project Implementation will begin on the day after the last of the two Parties signs this Grant Agreement.   
+**4.2** Project Implementation will begin the day after the last of the two Parties signs this Grant Agreement.   
 
 ## 5. Timing of Grant payments  
 
-**5.1** Payment will be made in XXX instalments to be made at the following dates/ in one instalment to be made at the following date  
+**5.1** Payment will be made in XXX installments at the following date(s) one or more installments.
 
-**5.2** The Grantor will not authorise payment unless the Grantee has:  
+- Initial Payment:  xxx.xx  or Date: _________
+- Milestone 1:      xxx.xx  or Date: _________
+- Milestone 2:      xxx.xx  or Date: _________
+- Milestone 3:      xxx.xx  or Date: _________
+- Milestone 4:      xxx.xx  or Date: _________
+- Milestone 5:      xxx.xx  or Date: _________
+- Milestone 6:      xxx.xx  or Date: _________
+- Milestone 7:      xxx.xx  or Date: _________
+- Milestone 8:      xxx.xx  or Date: _________
+- Milestone 9:      xxx.xx  or Date: _________
+- Milestone 10:     xxx.xx  or Date: _________
+  
+**5.2** The Grantor will not authorize payment unless the Grantee has:  
 
 1. signed and returned a copy of this Agreement to the Grantor;   
 
 1. completed the Grantor’s required KYC procedure contained in Exhibit B here attached; 
 
-**5.3** The Grantor reserves the right to interrupt all or any payments of the Grant if, at its sole discretion, the Grantee has infringed, or has not complied, with the terms of this Agreement.  
+**5.3** The Grantor reserves the right to interrupt all or any payments of the Grant if, at its sole discretion, the Grantee has infringed or has not complied with the terms of this Agreement.  
 
 ## 6. Reduction and Recovery of Grant  
 
-**6.1** If the Grantee is wound up or goes into liquidation, administration, receivership or bankruptcy, or enters into any compromise or other arrangement of its debts with its creditors, the Grantor will be entitled to suspend any further disbursement of the Grant. Also If the Grantor determines, on the basis of the Quarterly Grant Report or for any other reason, that the Grantee does not provide the milestone deliverables, or end of project deliverables to the committee's satisfication in regards to what was written and portrayed within the grant submission, the Grantor will be entitled to reject milestone and end of project payments. 
+**6.1** If the Grantee is wound up or goes into liquidation, administration, receivership or bankruptcy, or enters into any compromise or other arrangement of its debts with its creditors, the Grantor will be entitled to suspend any further disbursement of the Grant. Also If the Grantor determines, on the basis of the Quarterly Grant Report or for any other reason, that the Grantee does not provide the milestone deliverables, or end-of-project deliverables to the committee's satisfaction in regards to what was written and portrayed within the grant submission, the Grantor will be entitled to reject milestone and end of project payments. 
 
 **6.2** If the Grantor makes an overpayment to the Grantee, it will seek recovery of all sums overpaid. The Grantee will repay any overpayment to the Grantor within thirty (30) calendar days of receiving a written request from the Grantor to make a repayment. If there is a dispute between the Parties about the overpayment, repayment will not be made until the dispute has been resolved.   
 
@@ -219,19 +231,19 @@ In this Agreement:
 
 **19.2** Except as provided for in clause 19.1 above, this Agreement will not grant either Party any rights over the other Party’s intellectual property rights. In particular, neither Party will own or assert any interest in the other Party’s existing intellectual property rights. 
 
-**19.3** The Grantee warrants that it will take all reasonable steps to ensure that its implementation of the Project under this Agreement will not infringe any intellectual property rights of any third Party. The Grantee agrees to indemnify and hold the Grantor harmless against all liability, loss, damage, costs and expenses (including legal costs) which the Grantor may incur or suffer as a result of any claim of alleged or actual infringement of a third party’s intellectual property rights arising out of the Grantee’s negligent implementation of the Project.  
+**19.3** The Grantee warrants that it will take all reasonable steps to ensure that its implementation of the Project under this Agreement will not infringe any intellectual property rights of any third Party. The Grantee agrees to indemnify and hold the Grantor harmless against all liability, loss, damage, costs, and expenses (including legal costs) that the Grantor may incur or suffer as a result of any claim of alleged or actual infringement of a third party’s intellectual property rights arising out of the Grantee’s negligent implementation of the Project.  
 
 ## 20. Entire Agreement  
 
-**20.1** This Grant Agreement constitutes the entire agreement between the Parties and supersedes all negotiations, representations or agreements either written or oral preceding it.  
+**20.1** This Grant Agreement constitutes the entire agreement between the Parties and supersedes all negotiations, representations, or agreements, either written or oral preceding it.  
 
-## 21. Final provisions 
+## 21. Final Provisions 
 
-**21.1** Should any provision of this Contract be or become invalid in whole or in part, this shall not affect the validity of the remaining provisions of this Agreement. The Parties undertake to agree to replace the invalid provision by a provision permitted by statutory law which most closely resembles the intended economic result of the invalid provision. The same shall apply in case of a gap in the Contract. 
+**21.1** Should any provision of this Contract be or become invalid in whole or in part, this shall not affect the validity of the remaining provisions of this Agreement. The Parties undertake to agree to replace the invalid provision with a provision permitted by statutory law which most closely resembles the intended economic result of the invalid provision. The same shall apply in case of a gap in the Contract. 
 
 **21.2** Amendments to this Agreement through individual contractual agreements are valid in any form. In all other cases, amendments and supplements to this Agreement must be made in writing. This also applies for an amendment to this written form requirement. There are no oral or written side agreements. 
 
-**21.3** This Contract shall be governed by Republic of the Marshall Islands law. 
+**21.3** This Contract shall be governed by the Republic of the Marshall Islands law. 
 
 **21.4** Disputes related to this Agreement shall be first submitted to mediation. The terms and procedure for mediation shall be arranged by the parties to the dispute.  
 
